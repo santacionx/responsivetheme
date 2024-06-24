@@ -1,4 +1,4 @@
-# Flutter Demo App
+# Flutter Responsive Theme App
 
 This is a demo Flutter application showcasing theme toggling using Provider.
 
