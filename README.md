@@ -6,10 +6,6 @@ This is a demo Flutter application showcasing theme toggling using Provider.
 
 - [Introduction](#introduction)
 - [Screenshots](#screenshots)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -26,12 +22,3 @@ Include screenshots or images of your application in action.
 ### Example 2: Dark Theme
 
 ![Dark Theme](./dark.jpg)
-
-## Getting Started
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your_username/flutter-demo-app.git
